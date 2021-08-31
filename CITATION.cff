@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this repo, please cite it as below."
+authors:
+  - family-names: Brannock
+    given-names: Oisin
+title: "NUIG AI Masters Assignment 3 ML"
+version: 1.0.1
+date-released: 2020
